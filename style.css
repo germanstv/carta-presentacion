@@ -1,0 +1,16 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(1, 21, 37);
+}
+
+div{
+    margin: 15%;
+    text-align: center;
+    padding: 20px;
+    background-color: azure;
+    width: 40%;
+    border-radius: 20px;
+    box-shadow: 1px 2px 6px 1px silver;
+}
